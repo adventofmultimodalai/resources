@@ -196,7 +196,6 @@ Build and deploy your solutions using [AgenticFlow AI](https://agenticflow.ai/),
 - 🤖 No-code AI automation tools
 
 
-
 ### Additional Resources
 
 - **[A Comprehensive Guide to Multimodal LLMs and How They Work](https://www.ionio.ai/blog/a-comprehensive-guide-to-multimodal-llms-and-how-they-work)**  
@@ -204,6 +203,36 @@ Build and deploy your solutions using [AgenticFlow AI](https://agenticflow.ai/),
 
 - **[Guide to Building Multimodal RAG Systems](https://www.analyticsvidhya.com/blog/2024/09/guide-to-building-multimodal-rag-systems/)**  
   A detailed guide on constructing retrieval-augmented generation (RAG) systems combining text, images, and other data formats to handle diverse use cases.
+
+## Challenge tutorials
+### Challenge 1: AI Meme Factory
+**Skill Level: Great for Getting Started**
+
+Build a workflow that generates memes by analyzing user-inputted text or emotions. The system should:
+- Detect sentiment from user input
+- Select or generate appropriate meme templates
+- Overlay text captions
+- Produce memes that resonate with the intended emotion or message
+
+<div align="center">
+  <img src="https://photoshot-us.s3.us-east-1.amazonaws.com/next-s3-uploads/5d1861b8-2958-42eb-93a2-77b513499a42/Challenge-1.png" alt="AI Meme Factory Challenge" />
+</div>
+
+📺 [Watch Tutorial Video](https://qra.ai/intelmeme)
+
+### Challenge 2: Multi-Modal Story Generator
+**Skill Level: Moderate Challenge**
+
+Create an application that transforms user prompts or product specifications into engaging stories or marketing narratives. Your solution should:
+- Generate comprehensive content for storytelling or product promotion
+- Create illustrative images to accompany the narrative
+- Combine multiple modalities for engaging content creation
+
+<div align="center">
+  <img src="https://photoshot-us.s3.us-east-1.amazonaws.com/next-s3-uploads/1fe28e32-584b-456d-ae6c-f795bf8e4e8a/Challenge-2.png" alt="Multi-Modal Story Generator Challenge" />
+</div>
+
+📚 [View Tutorial](https://qra.ai/intelcontent)
 
 
 ## Contributing 🤝
